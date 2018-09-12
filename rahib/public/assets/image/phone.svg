@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 35 59" width="35" height="59">
+	<defs>
+		<filter id="flt1"> <feColorMatrix in="SourceGraphic" type="matrix" values="0 0 0 0 0.969   0 0 0 0 0.376   0 0 0 0 0.055   0 0 0 1 0" /> </filter>
+		<image width="35" height="59" id="img1" href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzNSA2MCIgd2lkdGg9IjM1IiBoZWlnaHQ9IjYwIj4KCTxzdHlsZT4KCQl0c3BhbiB7IHdoaXRlLXNwYWNlOnByZSB9CgkJLnNocDAgeyBmaWxsOiBub25lO3N0cm9rZTogIzAwMDAwMDtzdHJva2Utd2lkdGg6IDIgfSAKCQkuc2hwMSB7IGZpbGw6ICMwMDAwMDAgfSAKCTwvc3R5bGU+Cgk8ZyBpZD0iUGFnZSAxIj4KCQk8cGF0aCBpZD0iUGF0aCAxIiBjbGFzcz0ic2hwMCIgZD0iTTM0LDQuODNjMCwtMS41NiAtMS4yNywtMi44NCAtMi44MywtMi44NGgtMjcuMzNjLTEuNTYsMCAtMi44MywxLjI3IC0yLjgzLDIuODR2NTEuMzNjMCwxLjU2IDEuMjcsMi44MyAyLjgzLDIuODNoMjcuMzNjMS41NywwIDIuODMsLTEuMjcgMi44MywtMi44M3oiIC8+CgkJPHBhdGggaWQ9IlBhdGggMiIgY2xhc3M9InNocDEiIGQ9Ik0xNy41LDUxYy0wLjgzLDAgLTEuNSwwLjY3IC0xLjUsMS41YzAsMC44MyAwLjY3LDEuNSAxLjUsMS41YzAuODMsMCAxLjUsLTAuNjcgMS41LC0xLjVjMCwtMC44MyAtMC42NywtMS41IC0xLjUsLTEuNXpNMjQsN2gtMTNjLTAuNTUsMCAtMSwwLjQ1IC0xLDFjMCwwLjU1IDAuNDUsMSAxLDFoMTNjMC41NSwwIDEsLTAuNDUgMSwtMWMwLC0wLjU1IC0wLjQ1LC0xIC0xLC0xeiIgLz4KCTwvZz4KPC9zdmc+"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<use id="Inteligentny obiekt wektorowy" style="filter: url(#flt1)" href="#img1" transform="matrix(1,0,0,1,0,0)"/>
+</svg>

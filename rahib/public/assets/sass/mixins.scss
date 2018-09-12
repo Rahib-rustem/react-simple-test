@@ -1,0 +1,16 @@
+
+
+@mixin sectionBackBrightness($background,$opacity){
+    background:  #3b434b;
+    opacity: 0.8;
+} //section background image brigthness.
+
+@mixin boxStyle($max-width,$display,$margin){
+    max-width: 450px;
+    display: inline-block;
+    margin: 5% 0;
+}
+
+@mixin textColor($color){
+    color:  #f75f0d;
+}
